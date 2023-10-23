@@ -1,0 +1,15 @@
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.csproj.AssemblyReference.cache
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.AssemblyInfoInputs.cache
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.AssemblyInfo.cs
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.csproj.CoreCompileInputs.cache
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\bin\Debug\net6.0\lab4.2Ternavsky.exe
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\bin\Debug\net6.0\lab4.2Ternavsky.deps.json
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\bin\Debug\net6.0\lab4.2Ternavsky.runtimeconfig.json
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\bin\Debug\net6.0\lab4.2Ternavsky.dll
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\bin\Debug\net6.0\lab4.2Ternavsky.pdb
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.dll
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\refint\lab4.2Ternavsky.dll
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.pdb
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\lab4.2Ternavsky.genruntimeconfig.cache
+D:\C#\lab4Ternavsky\lab4.2Ternavsky\obj\Debug\net6.0\ref\lab4.2Ternavsky.dll
